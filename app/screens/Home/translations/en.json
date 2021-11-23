@@ -1,0 +1,14 @@
+{
+	"HOME_SCREEN_TAB_NAME":"Home",
+	"HOME_SCREEN_HEADER_NAME1":"Find your",
+	"HOME_SCREEN_HEADER_NAME2":"Perfect job",
+	"SEARCHBAR_PLACEHOLDER":"What are you looking for?",
+	"RECENT_JOBS":"Recent Jobs",
+	"LOCATION":"Location",
+	"CATEGORIES":"Categories",
+	"EXPERIENCE":"Experience",
+	"EDUCATION":"Edcuation",
+	"JOBTYPE": "Job Type",
+	"CLEAR" : "Clear",
+	"SHOWRESULT":"Show Result"
+}
